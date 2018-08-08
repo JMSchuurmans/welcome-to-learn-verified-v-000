@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the Learn-Verified Full Stack Web Development track. Over the next 800-1000 hours you will learn everything you need to know to get started as a Full Stack Web Developer. Before you get started, just a few thoughts about to learn best using learn.co. It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
+Welcome to the Learn-Verified Full Stack Web Development track. Over the next 800-1000 hours you will learn everything you need to know to get started as a Full Stack Web Developer. Before you get started, just a few thoughts about how to learn best using Learn.co. It's going to be harder, and more rewarding than any other learning experience you've ever had, we promise. Let's learn together.
 
 ## Learning How To Learn
 
@@ -22,15 +22,15 @@ We provide a wide range of instructional services and it's really important that
 
 Whenever you get stuck for more than a few minutes, start by clicking on the "Ask A Question" button at the top right of [learn.co](https://learn.co/). We have a team of Technical Coaches who will respond to you ASAP (usually within a minute) and if they can't get you going again with a couple of comments, they'll set you up with a screenshare where you get 20 minutes of personalized 1:1 support. We usually try to get you on a screenshare within 30-45 minutes of connecting with you, although at busy times it may take a little longer. Make sure to use Ask A Question early and often. It's the best way to get immediate help with labs.
 
-It is important to realize that Ask A Question is an educational - not customer support - function. Their goal isn't to tell you the answer (we could email you all of the answers for the whole course but that wouldn't help you to become a programmer). Their goal is to help you to learn how to learn by asking you questions and helping you to get better at key tasks like reading error messages and googling for answers. It'd be quicker for us just to tell you the answers, but our goal is to help you to build the skills to succeed as a professional developer, and the most important skill a developer has is the ability to figure things out on their own.
+It is important to realize that Ask A Question is an educational - not customer support - function. Their goal isn't to tell you the answer (we could email you all of the answers for the whole course but that wouldn't help you to become a programmer). Their goal is to help you learn how to learn by asking you questions and helping you to get better at key tasks like reading error messages and googling for answers. It'd be quicker for us just to tell you the answers, but our goal is to help you to build the skills to succeed as a professional developer, and the most important skill a developer has is the ability to figure things out on their own.
 
 ### Study Groups
 
-You can host your own study groups to connect with and learn with other students. However, we also run over 40 study groups a week that are "Flatiron hosted" to help you to learn to code.
+You can host your own study groups to connect with and learn with other students. However, we also run over 40 study groups a week that are "Flatiron-hosted" to help you learn to code.
 
 There are seven different types of study groups:
 - **Orientation**: Optional advice and information on getting started with the program. Usually on Mondays every week. If you can't make it, feel free to watch the recorded version [here](https://www.youtube.com/watch?v=I9iOq3EZxfE)
-- **Motivational** (Thoughtful Thursday, Coders Unite, etc): The objective of these is to allow students to connect and chat about their experiences of being on learn and to motivate each other.
+- **Motivational** (Thoughtful Thursday, Coders Unite, etc): The objective of these is to allow students to connect and chat about their experiences of being on Learn and to motivate each other.
 - **Office Hours**: A chance to connect with an instructor to ask any technical questions you might have
 - **Portfolio Project Prep**: A chance to talk with an instructor about any questions you might have about designing or building your portfolio project review app
 - **Lab Specific**: A combination of code along and a description of the underlying concepts.
@@ -41,7 +41,7 @@ Make sure to sign up for at least one study group a week. They're a great way to
 
 ### Project 1:1's
 
-Most of the time on Learn, you're going to be working through readme's (lessons that only require you to read some text or watch a video) and labs (where you have to write code to get tests to pass). However, there are also five Portfolio Projects where you get to build a complete app from scratch. If you have questions about how to get started with your portfolio project or get stuck while working on it, instead of using Ask A Question, schedule a session with a Technical coach [here](http://bit.ly/portfolio-project-support). Filling out the form will pair you with a coach that specializes in helping students with the project you're working on.
+Most of the time on Learn, you're going to be working through readmes (lessons that only require you to read some text or watch a video) and labs (where you have to write code to get tests to pass). However, there are also five Portfolio Projects where you get to build a complete app from scratch. If you have questions about how to get started with your portfolio project or get stuck while working on it, instead of using Ask A Question, schedule a session with a Technical coach [here](http://bit.ly/portfolio-project-support). Filling out the form will pair you with a coach that specializes in helping students with the project you're working on.
 
 ### Section Lead 1:1's
 
@@ -49,7 +49,7 @@ If you are really getting stuck and using Ask A Question isn't helping and atten
 
 ### Educational Coaching
 
-We offer the opportunity to speak with an Educational Coach as a non-technical support to check-in and help you stay accountable to your goals, anchor to your motivation in learning to code, and make steady forward progress at a pace that is right for you. If you are interested in this resource and would like to be paired with a coach, please email edcoaching@flatironschool.com and let us know about your goals in learning to code!
+We offer the opportunity to speak with an Educational Coach as a non-technical support to check-in and help you stay accountable to your goals, anchor your motivation in learning to code, and make steady forward progress at a pace that is right for you. If you are interested in this resource and would like to be paired with a coach, please email edcoaching@flatironschool.com and let us know about your goals in learning to code!
 
 ## The Learn IDE In Browser
 
@@ -57,7 +57,7 @@ The IDE In Browser is the fastest way to get coding on Learn. If you are not alr
 
 ## Career Services
 
-As you go through the curriculum, we know you are concerned about what the end looks like. More specifically, we bet you are interested in how getting a job as a software engineer works here at The Flatiron School. Well! Rebekah, our VP of Career Services put together this video to answer your burning questions. Enjoy!
+As you go through the curriculum, we know you are concerned about what the end looks like. More specifically, we bet you are interested in how getting a job as a software engineer works here at The Flatiron School. Well, Rebekah, our VP of Career Services put together this video to answer your burning questions. Enjoy!
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sn5MUV_NY0k?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=sn5MUV_NY0k">Career Services Intro Video</a></p>
 
